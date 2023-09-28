@@ -1,8 +1,8 @@
 # To-Do List Web App
 
-**Author: Lorenah M**
+**Author: Gideon Murage**
 
-A simple to-do list application built with HTML, CSS, Bootstrap, and JavaScript. This project is designed to help students understand how to manipulate the DOM and use event listeners in web development.
+A simple to-do list application built with HTML, CSS, Bootstrap, and JavaScript. This project is designed to help understand how to manipulate the DOM and use event listeners in web development.
 
 ## Getting Started
 
